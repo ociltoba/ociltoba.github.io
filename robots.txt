@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ociltoba.github.io/ociltoba.ociltoba
+Sitemap: https://ociltoba.github.io/app/ociltoba.ociltoba
+Sitemap: https://ociltoba.github.io/assets/ociltoba.ociltoba
+Sitemap: https://ociltoba.github.io/css/ociltoba.ociltoba
+Sitemap: https://ociltoba.github.io/includes/ociltoba.ociltoba
+Sitemap: https://ociltoba.github.io/item/ociltoba.ociltoba
+Sitemap: https://ociltoba.github.io/src/ociltoba.ociltoba
